@@ -2,3 +2,4 @@ siu01のテキストファイルです.
 bbb
 AAA
 BBB
+CCC
